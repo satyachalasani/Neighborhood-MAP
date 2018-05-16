@@ -1,0 +1,50 @@
+body {
+    font-family: " Arial, Helvetica, sans-serif";
+}
+
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0;
+}
+
+
+#map {
+    margin: 0;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: -4;
+}
+
+.sidenav {
+    margin: 0;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+.list-group-item {
+    margin: 0;
+    color: orangered;
+    border-left: solid;
+    border-bottom: solid;
+}
+
+#pano {
+    width: 200px;
+    height: 200px;
+}
+
+
+.navbar-default{
+	background-color:darkgoldenrod;
+}
+
+.collapsed in{
+	margin-left: 20px;
+}
+
