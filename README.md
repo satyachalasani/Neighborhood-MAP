@@ -12,4 +12,6 @@ Extract files.
 Open index.html
 
 ##Screenshot
-![](/Users/sreesatya/Documents/udacity projects/neighborhoodMAP/neighbourhood-map.png)
+<div align="center">
+    <img src="/neighborhoodMAP/neighbourhood-map.png" width="400px"</img> 
+</div>
