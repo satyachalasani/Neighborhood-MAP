@@ -1,5 +1,5 @@
 
-#Neighborhood Map Project
+<h1>Neighborhood Map Project</h1>
 
 
 Created as a project for Udacity's Full-stack Nanodegree program 
