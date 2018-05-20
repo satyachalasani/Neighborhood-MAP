@@ -15,5 +15,5 @@ Open index.html
 ##Screenshot
 
 <div align="center">
-    <img src="/neighborhoodMAP/neighbourhood-map.png" width="400px"</img> 
+    <img src="/neighborhoodMAP/neighbourhood-map.png" width="900px"</img> 
 </div>
