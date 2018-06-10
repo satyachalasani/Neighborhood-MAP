@@ -6,11 +6,11 @@ Created as a project for Udacity's Full-stack Nanodegree program
 
 <h2>Setup</h2>
 
-download the file.
+1•download the file.
 
-Extract files.
+2•Extract files.
 
-Open index.html
+3•Open index.html
 
 <h3>Screenshot</h3>
 
