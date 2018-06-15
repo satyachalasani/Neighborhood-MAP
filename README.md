@@ -17,4 +17,4 @@ Created as a project for Udacity's Full-stack Nanodegree program
 <div align="center">
     <img src="/neighborhoodMAP/neighbourhood-map.png" width="900px"</img> 
 </div>
-*********************
+
