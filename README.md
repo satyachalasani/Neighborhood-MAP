@@ -25,4 +25,3 @@ See project Neighborhood Map
     <img src="/neighborhoodMAP/neighbourhood-map.png" width="900px"</img> 
 </div>
 
-@@@@@@@@@@@@@@@@@
